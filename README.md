@@ -2,6 +2,7 @@
 
 Normal Text reinschreiben.
 Weiterer Text.
+Noch mehr Text.
 
   $ git config --global core.editor nano
 
