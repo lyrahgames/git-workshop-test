@@ -1,0 +1,9 @@
+*
+!*/
+
+# We want to programme with Python!
+!*.py
+
+!README.md
+
+!.git*
